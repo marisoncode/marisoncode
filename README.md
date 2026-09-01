@@ -124,7 +124,7 @@ AI systems that go beyond Q&A — using tools and executing **multi-step workflo
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=marison-m&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=764ba2&icon_color=eab676" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marison-m&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=764ba2" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisoncode&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=764ba2" />
 </p>
 
 <p align="center">
