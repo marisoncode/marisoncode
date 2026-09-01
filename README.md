@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/marison-m"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:marison399@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=marison-m&style=for-the-badge&color=764ba2" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=marisoncode&style=for-the-badge&color=764ba2" alt="profile views" />
 </p>
 
 <p align="center">
@@ -113,7 +113,7 @@ AI systems that go beyond Q&A — using tools and executing **multi-step workflo
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marison-m/marison-m/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/marisoncode/marisoncode/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 <sub>⚡ To activate the animated snake above: add the workflow from <a href="https://github.com/Platane/snk">Platane/snk</a> to this repo — see setup notes at the bottom of this file.</sub>
@@ -123,16 +123,16 @@ AI systems that go beyond Q&A — using tools and executing **multi-step workflo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marison-m&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=764ba2&icon_color=eab676" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marisoncode&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=764ba2&icon_color=eab676" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisoncode&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=764ba2" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marison-m&theme=radical&hide_border=true&background=1a1a2e&ring=764ba2&fire=eab676" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marisoncode&theme=radical&hide_border=true&background=1a1a2e&ring=764ba2&fire=eab676" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marison-m&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=764ba2&line=eab676&point=ffffff" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marisoncode&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=764ba2&line=eab676&point=ffffff" width="90%"/>
 </p>
 
 <br>
@@ -191,7 +191,7 @@ Every project is an opportunity to understand a problem, experiment with a solut
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" />
 
 <!--
-SETUP NOTES (replace marison-m with your actual GitHub username everywhere above):
+SETUP NOTES (replace marisoncode with your actual GitHub username everywhere above):
 
 1. Profile view counter (komarev) — works automatically, no setup needed.
 
@@ -199,7 +199,7 @@ SETUP NOTES (replace marison-m with your actual GitHub username everywhere above
    Vercel-hosted services, no setup needed, just make sure the username matches.
 
 3. Contribution snake animation (github-contribution-grid-snake-dark.svg):
-   - Create a repo named exactly your username: marison-m/marison-m
+   - Create a repo named exactly your username: marisoncode/marisoncode
    - Add file .github/workflows/snake.yml with the config from
      https://github.com/Platane/snk#-github-action
    - This generates the animated snake automatically on a schedule.
