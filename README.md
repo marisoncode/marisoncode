@@ -97,12 +97,12 @@ The goal is to understand the systems behind them and build useful software.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marisoncode&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=38BDF8&icon_color=7DD3FC&text_color=E0F2FE" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisoncode&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=38BDF8&text_color=E0F2FE" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=marisoncode&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=38BDF8&icon_color=7DD3FC&text_color=E0F2FE" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=marisoncode&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=38BDF8&text_color=E0F2FE" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marisoncode&hide_border=true&background=0D1B2A&ring=38BDF8&fire=7DD3FC&currStreakLabel=38BDF8" />
+  <img src="https://streak-stats.demolab.com/?user=marisoncode&hide_border=true&background=0D1B2A&ring=38BDF8&fire=7DD3FC&currStreakLabel=38BDF8" />
 </p>
 
 <br>
