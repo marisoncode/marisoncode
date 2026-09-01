@@ -1,6 +1,6 @@
 <div align="center">
 
-# Marison M.
+# Marison M
 
 ### Python Developer · AI Engineer in Progress
 
