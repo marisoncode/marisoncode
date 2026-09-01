@@ -1,18 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Marison%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%C2%B7%20AI%20Engineer%20in%20Progress&descAlignY=58&descSize=18" />
+<img width="100%" src="./assets/header-banner.svg" alt="Marison M banner" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marison-m"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:marison399@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=marisoncode&style=for-the-badge&color=764ba2" alt="profile views" />
+  <a href="https://www.linkedin.com/in/marison-m"><img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:marison399@gmail.com"><img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=marisoncode&style=for-the-badge&color=0EA5E9" alt="profile views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=764ABA&center=true&vCenter=true&width=650&lines=Building+backend+systems+with+Python+%F0%9F%90%8D;Exploring+LLMs+%2B+RAG+%2B+Agentic+AI+%F0%9F%A4%96;Currently+learning%3A+LangGraph+%2B+Tool+Calling;Turning+concepts+into+working+software+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+backend+systems+with+Python+%F0%9F%90%8D;Exploring+LLMs+%2B+RAG+%2B+Agentic+AI+%F0%9F%A4%96;Currently+learning%3A+LangGraph+%2B+Tool+Calling;Turning+concepts+into+working+software+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <div align="center">
 
-[![](https://img.shields.io/badge/💡_philosophy-Don't_just_learn_the_technology._Build_something_with_it.-1a1a2e?style=for-the-badge&labelColor=764ABA)](#)
+> *Don't just learn the technology. Build something with it.*
 
 </div>
 
@@ -35,31 +35,19 @@ My current direction is moving deeper into **Generative AI** and **Agentic AI** 
 <td width="50%" valign="top">
 
 ### ⚙️ Backend Engineering
-```
-Python · FastAPI · Flask
-REST APIs · SQLAlchemy
-```
+Python · FastAPI · Flask · REST APIs · SQLAlchemy
 
 ### 🗄️ Data & Infrastructure
-```
-PostgreSQL · MongoDB
-Redis · Docker
-```
+PostgreSQL · MongoDB · Redis · Docker
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧬 Generative AI
-```
-LLMs · Prompt Engineering
-RAG · Embeddings
-```
+LLMs · Prompt Engineering · RAG · Embeddings
 
 ### 🤖 AI Engineering
-```
-LangChain · LangGraph
-Hugging Face · Tool Calling · Agents
-```
+LangChain · LangGraph · Hugging Face · Tool Calling · AI Agents
 
 </td>
 </tr>
@@ -67,48 +55,60 @@ Hugging Face · Tool Calling · Agents
 
 <br>
 
-## 🛠️ Tools I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mongodb,redis,docker,react,js,tailwind,git,githubactions&theme=dark&perline=6" />
-</p>
+<img width="100%" src="./assets/tools.svg" alt="Tools I use" />
 
 <br>
 
 ## 🚀 Featured Work
 
+<img width="100%" src="./assets/featured-work.svg" alt="Featured projects" />
+
 <table width="100%">
 <tr>
-<td width="33%" valign="top" align="center">
-<img src="https://img.shields.io/badge/🤖-AI--Powered_HRMS-1a1a2e?style=for-the-badge&labelColor=667eea" width="100%"/>
+<td width="33%" valign="top">
 
-**Multi-tenant SaaS HRMS** with an AI-powered Training Hub for skill-gap analysis and personalized development paths.
+Multi-tenant SaaS HRMS with an AI-powered Training Hub for skill-gap analysis and personalized development paths.
 
-`Skill Gap Analysis` `Personalized Learning Paths` `AI Assessments` `Mock Interviews` `Content Recommendations` `AI-generated Training Plans`
+**AI capabilities:** Skill Gap Analysis · Personalized Learning Paths · AI Assessments · Mock Interviews · Content Recommendations · AI-generated Training Plans
 
-**Stack:** `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Redis` `Docker` `React` `LLMs`
-
-</td>
-<td width="33%" valign="top" align="center">
-<img src="https://img.shields.io/badge/🔎-RAG_Knowledge_Assistant-1a1a2e?style=for-the-badge&labelColor=764ba2" width="100%"/>
-
-Document-based AI assistant combining **retrieval + LLM generation** for context-aware responses.
-
-`Document Processing` `Chunking` `Embeddings` `Vector Search` `RAG` `LLMs`
+**Stack:**
+<br>
+<img src="https://img.shields.io/badge/Python-38BDF8?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-0EA5E9?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-0284C7?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-38BDF8?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-0EA5E9?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/React-0284C7?style=flat-square&logoColor=white" />
 
 </td>
-<td width="33%" valign="top" align="center">
-<img src="https://img.shields.io/badge/🤖-Agentic_AI_Experiments-1a1a2e?style=for-the-badge&labelColor=eab676" width="100%"/>
+<td width="33%" valign="top">
 
-AI systems that go beyond Q&A — using tools and executing **multi-step workflows**.
+Document-based AI assistant combining retrieval with LLM generation to provide context-aware responses.
 
-`LangGraph` `Tool Calling` `Memory` `Agent Workflows` `MCP`
+**Exploring:** Document Processing · Chunking · Embeddings · Vector Search · RAG · LLMs
+
+</td>
+<td width="33%" valign="top">
+
+AI systems that move beyond simple question-and-answer interactions by using tools and executing multi-step workflows.
+
+**Currently exploring:** LangGraph · Tool Calling · Memory · Agent Workflows · MCP
 
 </td>
 </tr>
 </table>
 
 <br>
+
+<img width="45%" align="right" src="./assets/learning-roadmap.svg" alt="Currently learning roadmap" />
+
+## 🌱 Currently Learning
+
+My path from foundational LLM engineering toward fully agentic systems — shown as a live roadmap on the right, going from **LLM Engineering** up through **Advanced RAG → LangChain → LangGraph → Tool Calling → Agentic AI**, currently focused on **Hugging Face**.
+
+The goal isn't simply to learn AI tools — it's to understand the systems behind them and build useful software.
+
+<br clear="right"/>
 
 ## 🐍 Contribution Snake
 
@@ -116,45 +116,24 @@ AI systems that go beyond Q&A — using tools and executing **multi-step workflo
   <img src="https://raw.githubusercontent.com/marisoncode/marisoncode/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-<sub>⚡ To activate the animated snake above: add the workflow from <a href="https://github.com/Platane/snk">Platane/snk</a> to this repo — see setup notes at the bottom of this file.</sub>
+<sub>⚡ To activate: add the workflow from <a href="https://github.com/Platane/snk">Platane/snk</a> to this repo — see setup notes at the bottom of this file.</sub>
 
 <br>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marisoncode&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=764ba2&icon_color=eab676" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisoncode&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=764ba2" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marisoncode&show_icons=true&hide_border=true&bg_color=081527&title_color=38BDF8&icon_color=7DD3FC&text_color=E0F2FE" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisoncode&layout=compact&hide_border=true&bg_color=081527&title_color=38BDF8&text_color=E0F2FE" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marisoncode&theme=radical&hide_border=true&background=1a1a2e&ring=764ba2&fire=eab676" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marisoncode&hide_border=true&background=081527&ring=38BDF8&fire=7DD3FC&currStreakLabel=38BDF8&sideLabels=E0F2FE&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=93C5FD" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marisoncode&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=764ba2&line=eab676&point=ffffff" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marisoncode&hide_border=true&bg_color=081527&color=38BDF8&line=7DD3FC&point=FFFFFF" width="90%"/>
 </p>
-
-<br>
-
-## 🌱 Currently Learning
-
-<p align="center">
-<img src="https://img.shields.io/badge/1-LLM_Engineering-1a1a2e?style=for-the-badge&labelColor=667eea" /> ↓<br>
-<img src="https://img.shields.io/badge/2-Advanced_RAG-1a1a2e?style=for-the-badge&labelColor=6f74c9" /> ↓<br>
-<img src="https://img.shields.io/badge/3-LangChain-1a1a2e?style=for-the-badge&labelColor=7b74b1" /> ↓<br>
-<img src="https://img.shields.io/badge/4-LangGraph-1a1a2e?style=for-the-badge&labelColor=87749a" /> ↓<br>
-<img src="https://img.shields.io/badge/5-Tool_Calling-1a1a2e?style=for-the-badge&labelColor=937483" /> ↓<br>
-<img src="https://img.shields.io/badge/6-Agentic_AI-1a1a2e?style=for-the-badge&labelColor=9f746c" /> ↓<br>
-<img src="https://img.shields.io/badge/7-Hugging_Face-1a1a2e?style=for-the-badge&labelColor=eab676" />
-</p>
-
-<div align="center">
-
-*The goal is not simply to learn AI tools.*
-*The goal is to understand the systems behind them and build useful software.*
-
-</div>
 
 <br>
 
@@ -184,26 +163,29 @@ Every project is an opportunity to understand a problem, experiment with a solut
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marison-m"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:marison399@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/marison-m"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:marison399@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" />
+<img width="100%" src="./assets/footer-banner.svg" alt="footer" />
 
 <!--
-SETUP NOTES (replace marisoncode with your actual GitHub username everywhere above):
+SETUP NOTES
 
-1. Profile view counter (komarev) — works automatically, no setup needed.
+1. This README references local files in an `assets/` folder using relative
+   paths (./assets/...). You MUST commit the whole `assets/` folder alongside
+   README.md in your marisoncode/marisoncode repo, in the exact same
+   folder structure, or those images will show as broken.
 
-2. GitHub stats / streak / top langs / activity graph — these are free public
-   Vercel-hosted services, no setup needed, just make sure the username matches.
+2. Profile view counter (komarev) and GitHub stats/streak/top-langs/activity
+   graph are free hosted services — no setup needed beyond the username
+   already being set to marisoncode.
 
-3. Contribution snake animation (github-contribution-grid-snake-dark.svg):
-   - Create a repo named exactly your username: marisoncode/marisoncode
-   - Add file .github/workflows/snake.yml with the config from
+3. Contribution snake animation:
+   - Repo must be named exactly: marisoncode/marisoncode
+   - Add .github/workflows/snake.yml using the config from
      https://github.com/Platane/snk#-github-action
-   - This generates the animated snake automatically on a schedule.
+   - It generates the animated snake automatically on a schedule.
 
-4. Typing SVG and capsule-render banners are live-rendered image URLs —
-   no setup needed, they just work once the file is in your profile repo.
+4. Typing SVG banner is a live-rendered image URL — works immediately.
 -->
