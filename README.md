@@ -1,489 +1,195 @@
 <div align="center">
 
-# 👋 MAARISON M.
+# MAARISON M.
 
-### `PYTHON DEVELOPER` → `AI ENGINEER`
+### Python Developer · AI Engineer in Progress
 
-**Building backend systems today.
-Engineering intelligent systems tomorrow.**
-
-<br>
-
-🧠 **LLMs**  •  🔎 **RAG**  •  🤖 **Agentic AI**  •  ⚡ **FastAPI**
+**Building backend systems and exploring intelligent applications powered by LLMs.**
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/marison-m)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:marison399@gmail.com)
+<a href="https://www.linkedin.com/in/marison-m">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:marison399@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-<div align="center">
+## 👋 About
 
-## 🧊 `ABOUT.ME`
+I'm a **Python developer** focused on backend engineering and the development of AI-powered applications.
 
-</div>
+My current direction is moving deeper into **Generative AI and Agentic AI**, with a focus on understanding how LLMs, retrieval systems, tools and agents can be combined to solve real-world problems.
 
-<table>
-<tr>
-<td width="50%">
-
-### 🐍 Backend Engineer
-
-I build **Python-based backend systems**, REST APIs and scalable application services.
-
-**Core focus**
-
-`Python` `FastAPI` `Flask`
-`PostgreSQL` `SQLAlchemy`
-`Redis` `Docker`
-
-</td>
-
-<td width="50%">
-
-### 🤖 AI Engineer in Progress
-
-Currently moving deeper into **Generative AI and Agentic AI engineering**.
-
-**Exploring**
-
-`LLMs` `RAG` `LangChain`
-`LangGraph` `Hugging Face`
-`Tool Calling` `AI Agents`
-
-</td>
-</tr>
-</table>
+I prefer learning by building — turning concepts into working software, experimenting with new approaches, and improving systems along the way.
 
 ---
 
-<div align="center">
+## 🧠 What I'm Focused On
 
-## ⚙️ `MY ENGINEERING STACK`
+**Backend Engineering**
 
-</div>
+Python · FastAPI · Flask · REST APIs · SQLAlchemy
 
-<table>
-<tr>
-<td align="center" width="25%">
+**Data & Infrastructure**
 
-### 🐍
+PostgreSQL · MongoDB · Redis · Docker
 
-### PYTHON
+**Generative AI**
 
-Backend
-Automation
-AI Applications
+LLMs · Prompt Engineering · RAG · Embeddings
 
-</td>
+**AI Engineering**
 
-<td align="center" width="25%">
+LangChain · LangGraph · Hugging Face · Tool Calling · AI Agents
 
-### ⚡
+**Frontend**
 
-### FASTAPI
-
-REST APIs
-Microservices
-AI Services
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-### LLMs
-
-AI Applications
-Structured Output
-Prompt Engineering
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔎
-
-### RAG
-
-Embeddings
-Retrieval
-Grounded AI
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 🔗
-
-### LANGCHAIN
-
-LLM Pipelines
-Retrieval
-Tools
-
-</td>
-
-<td align="center">
-
-### 🕸️
-
-### LANGGRAPH
-
-Agent Workflows
-State
-Orchestration
-
-</td>
-
-<td align="center">
-
-### 🗄️
-
-### POSTGRESQL
-
-Relational Data
-Production APIs
-Persistence
-
-</td>
-
-<td align="center">
-
-### 🐳
-
-### DOCKER
-
-Containers
-Services
-Deployment
-
-</td>
-</tr>
-</table>
+React · JavaScript · Tailwind CSS
 
 ---
 
-<div align="center">
+## 🚀 Featured Work
 
-## 🧠 `AI LAB`
+### 🤖 AI-Powered HRMS
 
-### From LLM Applications → Intelligent Systems
+A multi-tenant SaaS HRMS platform with an AI-powered Training Hub designed to help organizations identify employee skill gaps and create personalized development paths.
 
-</div>
-
-```text
-                         ┌─────────────────────┐
-                         │        LLMs         │
-                         │  Intelligence Layer │
-                         └──────────┬──────────┘
-                                    │
-                    ┌───────────────┴───────────────┐
-                    │                               │
-             ┌──────▼──────┐                ┌──────▼──────┐
-             │     RAG     │                │    TOOLS    │
-             │             │                │             │
-             │ Retrieve    │                │ APIs        │
-             │ Ground      │                │ Functions   │
-             │ Generate    │                │ Services    │
-             └──────┬──────┘                └──────┬──────┘
-                    │                               │
-                    └───────────────┬───────────────┘
-                                    │
-                           ┌────────▼────────┐
-                           │   AI AGENTS     │
-                           │                 │
-                           │ Reason          │
-                           │ Decide          │
-                           │ Act             │
-                           └─────────────────┘
-```
-
----
-
-<div align="center">
-
-## 🚀 `WHAT I'M BUILDING`
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-## 🤖 AI-Powered HRMS
-
-A multi-tenant HRMS platform enhanced with AI-driven employee development.
-
-**AI capabilities**
+**AI capabilities include**
 
 * Skill Gap Analysis
 * Personalized Learning Paths
 * AI Assessments
 * Mock Interviews
 * Content Recommendations
-* Training Intelligence
+* AI-generated Training Plans
 
-**Stack**
+**Built with**
 
-`Python` `FastAPI` `PostgreSQL`
-`Redis` `Docker` `React` `LLMs`
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Redis` `Docker` `React` `LLMs`
 
-</td>
+---
 
-<td width="50%">
+### 🔎 RAG Knowledge Assistant
 
-## 🧠 RAG Knowledge Assistant
-
-An AI knowledge system focused on turning documents into an interactive source of information.
+Building a document-based AI assistant that combines retrieval with LLM generation to provide context-aware responses.
 
 **Exploring**
 
-* Document ingestion
-* Chunking
-* Embeddings
-* Semantic retrieval
-* Context construction
-* Grounded generation
-
-**Stack**
-
-`Python` `FastAPI` `RAG`
-`LLM` `Vector Database`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🕴️ Agentic AI
-
-Building experiments around AI systems that can **reason, use tools and execute multi-step workflows**.
-
-**Exploring**
-
-* Tool Calling
-* Stateful Agents
-* Workflow Orchestration
-* Memory
-* Multi-step Execution
-* LangGraph
-
-**Stack**
-
-`Python` `LLMs` `LangGraph`
-
-</td>
-
-<td width="50%">
-
-## ⚡ Backend Engineering
-
-Building clean, maintainable backend services with production-oriented architecture.
-
-**Focus**
-
-* REST APIs
-* Authentication
-* Database Design
-* Async Processing
-* Redis
-* Docker
-* API Architecture
-
-**Stack**
-
-`Python` `FastAPI` `PostgreSQL`
-
-</td>
-</tr>
-</table>
+`Document Processing` · `Chunking` · `Embeddings` · `Vector Search` · `RAG` · `LLMs`
 
 ---
 
-<div align="center">
+### 🤖 Agentic AI Experiments
 
-## 🔬 `CURRENTLY EXPLORING`
+Exploring AI systems that can move beyond simple question-and-answer interactions by using tools and executing multi-step workflows.
 
-</div>
+**Currently exploring**
 
-<table>
-<tr>
-<td align="center">🧠<br><b>LLM Engineering</b></td>
-<td align="center">🔎<br><b>Advanced RAG</b></td>
-<td align="center">🕸️<br><b>LangGraph</b></td>
-<td align="center">🤖<br><b>AI Agents</b></td>
-<td align="center">🤗<br><b>Hugging Face</b></td>
-</tr>
-</table>
+`LangGraph` · `Tool Calling` · `Memory` · `Agent Workflows` · `MCP`
 
-<br>
+---
+
+## 🌱 Currently Learning
 
 ```text
-LEARN
-  ↓
-UNDERSTAND
-  ↓
-BUILD
-  ↓
-BREAK
-  ↓
-FIX
-  ↓
-SHIP
-  ↓
-REPEAT
+LLM Engineering
+      ↓
+Advanced RAG
+      ↓
+LangChain
+      ↓
+LangGraph
+      ↓
+Tool Calling
+      ↓
+Agentic AI
+      ↓
+Hugging Face
 ```
 
-> I don't want to just learn AI tools.
-> I want to understand how they work and build useful systems with them.
+The goal is not simply to learn AI tools.
+
+**The goal is to understand the systems behind them and build useful software.**
+
+---
+
+## 🛠️ Tools I Use
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+
+</p>
+
+`Python` `FastAPI` `Flask` `PostgreSQL` `MongoDB` `Redis` `Docker` `React` `Git`
+
+---
+
+## 📌 What I'm Building Toward
+
+**Python Backend Engineer**
+
+→ Build reliable APIs and services
+
+**LLM Engineer**
+
+→ Build applications around foundation models
+
+**RAG Engineer**
+
+→ Build systems that retrieve and reason over external knowledge
+
+**Agentic AI Engineer**
+
+→ Build AI systems that can use tools, make decisions and execute workflows
+
+---
+
+## 💭 Engineering Philosophy
+
+> **Don't just learn the technology. Build something with it.**
+
+Every project is an opportunity to understand a problem, experiment with a solution, and turn the result into something better.
 
 ---
 
 <div align="center">
 
-## 🛠️ `TECHNOLOGY MAP`
+### Currently building with Python.
 
-</div>
+### Currently learning AI.
 
-| Layer                   | Technologies                                   |
-| ----------------------- | ---------------------------------------------- |
-| 🐍 **Languages**        | Python · JavaScript · SQL                      |
-| ⚡ **Backend**           | FastAPI · Flask · REST APIs · SQLAlchemy       |
-| 🗄️ **Databases**       | PostgreSQL · MongoDB                           |
-| ⚡ **Caching / Systems** | Redis                                          |
-| 🤖 **Generative AI**    | LLMs · Prompt Engineering · Structured Outputs |
-| 🔎 **AI Retrieval**     | RAG · Embeddings · Vector Search               |
-| 🔗 **AI Frameworks**    | LangChain · LangGraph                          |
-| 🤗 **Open Source AI**   | Hugging Face                                   |
-| 🐳 **Infrastructure**   | Docker                                         |
-| 🎨 **Frontend**         | React · Tailwind CSS                           |
-| 🔧 **Developer Tools**  | Git · GitHub · Postman                         |
-
----
-
-<div align="center">
-
-## 🧭 `MY DIRECTION`
-
-```text
-                 PYTHON
-                    │
-                    ▼
-            BACKEND ENGINEERING
-                    │
-                    ▼
-             LLM APPLICATIONS
-                    │
-                    ▼
-                   RAG
-                    │
-                    ▼
-          LANGCHAIN / LANGGRAPH
-                    │
-                    ▼
-             TOOL CALLING
-                    │
-                    ▼
-              AI AGENTS
-                    │
-                    ▼
-             AGENTIC AI
-```
-
-### `The goal isn't to follow the AI hype.`
-
-### `The goal is to build systems that are actually useful.`
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 `ENGINEERING MINDSET`
-
-<table>
-<tr>
-<td align="center">
-
-### 🧩
-
-**SOLVE**
-
-Break complex problems
-into smaller systems.
-
-</td>
-
-<td align="center">
-
-### 🏗️
-
-**BUILD**
-
-Turn concepts into
-working software.
-
-</td>
-
-<td align="center">
-
-### 🧪
-
-**EXPERIMENT**
-
-Test ideas.
-Learn from failure.
-
-</td>
-
-<td align="center">
-
-### 🚀
-
-**SHIP**
-
-Move from
-prototype → product.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 `LET'S CONNECT`
+### Next stop: Agentic AI. 🤖
 
 <br>
 
-**💼 LinkedIn**
-
-**linkedin.com/in/marison-m**
+**Let's build something useful.**
 
 <br>
 
-**📧 Email**
-
-**[marison399@gmail.com](mailto:marison399@gmail.com)**
-
-<br><br>
-
-### 🐍 Python by day. 🤖 AI by curiosity.
-
-**Thanks for visiting my corner of GitHub.**
-
-⭐ Explore the repositories — some experiments are still under construction.
+<a href="https://www.linkedin.com/in/marison-m">LinkedIn</a>
+  ·   <a href="mailto:marison399@gmail.com">Email</a>
 
 </div>
