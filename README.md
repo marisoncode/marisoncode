@@ -1,139 +1,224 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:38BDF8&height=200&section=header&text=Marison%20M&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%C2%B7%20AI%20Engineer%20in%20Progress&descAlignY=58&descSize=16" />
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/marison-m"><img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:marison399@gmail.com"><img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=marisoncode&style=for-the-badge&color=0EA5E9" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Building+backend+systems+with+Python+%F0%9F%90%8D;Exploring+LLMs+%2B+RAG+%2B+Agentic+AI+%F0%9F%A4%96;Currently+learning%3A+LangGraph+%2B+Tool+Calling;Turning+concepts+into+working+software+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
-</p>
-
 <div align="center">
 
-> Don't just learn the technology. Build something with it.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:172554,100:0EA5E9&height=220&section=header&text=MARISON%20M&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Backend%20%7C%20AI%20Applications&descAlignY=58&descSize=17&descColor=BAE6FD" />
+
+# Python Developer · Backend · AI Applications
+
+**Building reliable backend systems and AI-powered software with Python.**
+
+<p>
+  <a href="https://www.linkedin.com/in/marison-m">
+    <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:marison399@gmail.com">
+    <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 👋 About Me
+## ⚡ Profile
 
-I'm a Python developer focused on **backend engineering** and the development of **AI-powered applications**.
+I'm a **Python Developer focused on backend engineering and AI-powered applications**.
 
-My current direction is moving deeper into **Generative AI** and **Agentic AI** — understanding how LLMs, retrieval systems, tools, and agents combine to solve real-world problems.
+I build API-driven systems using Python and FastAPI, work with relational databases and infrastructure, and develop applications that integrate LLMs, retrieval, automation, and AI workflows.
 
-I prefer learning by building — turning concepts into working software, experimenting with new approaches, and improving systems along the way.
+My work sits at the intersection of:
 
-<br>
+**Backend Engineering × AI Systems × Practical Software**
 
-## 🧠 What I'm Focused On
+---
 
-| Area | Stack |
-|---|---|
-| ⚙️ **Backend Engineering** | Python · FastAPI · Flask · REST APIs · SQLAlchemy |
-| 🗄️ **Data & Infrastructure** | PostgreSQL · MongoDB · Redis · Docker |
-| 🧬 **Generative AI** | LLMs · Prompt Engineering · RAG · Embeddings |
-| 🤖 **AI Engineering** | LangChain · LangGraph · Hugging Face · Tool Calling · AI Agents |
-| 🎨 **Frontend** | React · JavaScript · Tailwind CSS |
+## 🧩 Core Engineering
 
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🛠️ Tools I Use
+### 🐍 Backend
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mongodb,redis,docker,react,js,tailwind,git&theme=dark" />
-</p>
+* Python
+* FastAPI
+* REST APIs
+* SQLAlchemy
+* PostgreSQL
+* Redis
+* Docker
 
-<p align="center">
-Python · FastAPI · Flask · PostgreSQL · MongoDB · Redis · Docker · React · JavaScript · Tailwind CSS · Git
-</p>
+</td>
 
-<br>
+<td width="50%" valign="top">
+
+### 🧠 AI / GenAI
+
+* LLM Applications
+* Prompt Engineering
+* RAG
+* Embeddings
+* Hugging Face
+* Transformers
+* Tool Calling
+* AI Agents
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Data
+
+* PostgreSQL
+* MongoDB
+* SQL
+* Redis
+* Vector-based retrieval
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛠️ Development
+
+* Git
+* GitHub
+* Docker
+* Postman
+* React
+* JavaScript
+* Tailwind CSS
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🚀 Featured Work
 
 ### 🤖 AI-Powered HRMS
-Multi-tenant SaaS HRMS platform with an AI-powered Training Hub designed to help organizations identify employee skill gaps and create personalized development paths.
 
-**AI capabilities:** Skill Gap Analysis · Personalized Learning Paths · AI Assessments · Mock Interviews · Content Recommendations · AI-generated Training Plans
+A multi-tenant HRMS platform with an AI-powered **Training Hub** designed around employee development and organizational skill management.
 
-**Built with:** Python · FastAPI · PostgreSQL · SQLAlchemy · Redis · Docker · React · LLMs
+**Key capabilities**
+
+`Skill Gap Analysis` · `Learning Paths` · `AI Assessments` · `Mock Interviews` · `Content Recommendations` · `AI Training Plans`
+
+**Architecture & Stack**
+
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Redis` `Docker` `React` `LLMs`
+
+---
 
 ### 🔎 RAG Knowledge Assistant
-Document-based AI assistant that combines retrieval with LLM generation to provide context-aware responses.
 
-**Exploring:** Document Processing · Chunking · Embeddings · Vector Search · RAG · LLMs
+A document-based AI assistant combining retrieval and LLM generation to produce context-aware responses from external knowledge.
 
-### 🤖 Agentic AI Experiments
-AI systems that move beyond simple question-and-answer interactions by using tools and executing multi-step workflows.
+**Core concepts**
 
-**Currently exploring:** LangGraph · Tool Calling · Memory · Agent Workflows · MCP
+`Document Processing` · `Chunking` · `Embeddings` · `Vector Search` · `RAG` · `LLMs`
 
-<br>
+---
 
-## 🌱 Currently Learning
+### 🤖 Agentic AI Systems
+
+AI workflow experiments focused on systems that can interact with tools and execute multi-step processes rather than relying only on conventional conversational responses.
+
+**Technologies**
+
+`LangGraph` · `Tool Calling` · `Memory` · `Agent Workflows` · `MCP`
+
+---
+
+## 🏗️ Engineering Focus
+
+```text
+Python
+  ├── Backend APIs
+  ├── Data & Infrastructure
+  └── AI-powered Services
+
+AI Systems
+  ├── LLM Applications
+  ├── Retrieval & RAG
+  ├── Tool Calling
+  └── Agent Workflows
+```
+
+I focus on turning these technologies into **working software and practical systems**, rather than treating them as isolated tools.
+
+---
+
+## 🛠️ Technology Stack
 
 <p align="center">
-<img src="https://img.shields.io/badge/1-LLM_Engineering-0EA5E9?style=for-the-badge" /><br>⬇️<br>
-<img src="https://img.shields.io/badge/2-Advanced_RAG-0EA5E9?style=for-the-badge" /><br>⬇️<br>
-<img src="https://img.shields.io/badge/3-LangChain-0EA5E9?style=for-the-badge" /><br>⬇️<br>
-<img src="https://img.shields.io/badge/4-LangGraph-0EA5E9?style=for-the-badge" /><br>⬇️<br>
-<img src="https://img.shields.io/badge/5-Tool_Calling-0EA5E9?style=for-the-badge" /><br>⬇️<br>
-<img src="https://img.shields.io/badge/6-Agentic_AI-0EA5E9?style=for-the-badge" /><br>⬇️<br>
-<img src="https://img.shields.io/badge/7-Hugging_Face-38BDF8?style=for-the-badge" />
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,redis,docker,git,github,react,js,tailwind&theme=dark" />
+
 </p>
 
-<div align="center">
+<p align="center">
 
-The goal is not simply to learn AI tools.
-The goal is to understand the systems behind them and build useful software.
+<img src="https://img.shields.io/badge/LLMs-0F172A?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-172554?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Transformers-0F172A?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-0F172A?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-0F172A?style=flat-square&logoColor=white" />
 
-</div>
+</p>
 
-<br>
+---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=marisoncode&layout=compact&theme=dark&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=marisoncode&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=marisoncode&theme=dark&hide_border=true" />
 </p>
 
-<br>
+---
 
-## 📌 What I'm Building Toward
-
-| Role | Focus |
-|---|---|
-| 🐍 **Python Backend Engineer** | Build reliable APIs and services |
-| 🧠 **LLM Engineer** | Build applications around foundation models |
-| 🔎 **RAG Engineer** | Build systems that retrieve and reason over external knowledge |
-| 🤖 **Agentic AI Engineer** | Build AI systems that use tools, make decisions, and execute workflows |
-
-<br>
-
-## 💭 Engineering Philosophy
+## 🎯 What I Build
 
 <div align="center">
 
-**"Don't just learn the technology. Build something with it."**
+|                          |                                               |
+| ------------------------ | --------------------------------------------- |
+| ⚙️ **Backend Systems**   | API-driven services and business applications |
+| 🧠 **AI Applications**   | Software powered by modern LLM capabilities   |
+| 🔎 **Knowledge Systems** | Retrieval and RAG-based applications          |
+| 🤖 **AI Workflows**      | Tool-enabled and multi-step AI systems        |
 
-Every project is an opportunity to understand a problem, experiment with a solution, and turn the result into something better.
+</div>
 
-**Currently building with Python. Currently learning AI. Next stop: Agentic AI. 🤖**
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/marison-m">
+<img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:marison399@gmail.com">
+<img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 <br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/marison-m"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:marison399@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0EA5E9&height=120&section=footer" />
+### Building with Python. Engineering with AI.
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:172554,100:0F172A&height=120&section=footer" />
