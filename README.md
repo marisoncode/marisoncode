@@ -1,5 +1,3 @@
-<!-- ========================= HERO ========================= -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,45:111827,75:312E81,100:00E5FF&height=260&section=header&text=MARISON%20M&fontSize=58&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=PYTHON%20%7C%20BACKEND%20%7C%20AI%20SYSTEMS&descAlignY=57&descSize=18&descColor=67E8F9" />
@@ -10,11 +8,11 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/marison-m">
+<a href="https://www.linkedin.com/in/marison-m" target="_blank">
 <img src="https://img.shields.io/badge/LINKEDIN-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:marison399@gmail.com">
+<a href="mailto:marison399@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -28,60 +26,90 @@
 
 <div align="center">
 
-### `SYSTEM STATUS`
-
-`PYTHON`   `BACKEND`   `LLM`   `RAG`   `AI WORKFLOWS`
+### `PYTHON`   `BACKEND`   `AI`   `LLMs`   `RAG`   `AUTOMATION`
 
 </div>
 
 <br>
 
-<!-- ========================= PROFILE ========================= -->
-
 ## `01` — PROFILE
 
-<table>
-<tr>
-<td width="62%" valign="top">
+<div align="center">
 
 ### Python Developer building AI-powered systems.
 
-I work primarily with **Python and backend technologies**, building API-driven applications, business systems, and AI-powered software.
+</div>
 
-My engineering focus combines:
+I'm a **Python Developer focused on backend engineering and AI-powered applications**.
 
-* ⚙️ Backend architecture
-* 🐍 Python services & APIs
-* 🧠 LLM-powered applications
-* 🔎 Retrieval & RAG systems
-* 🤖 AI workflows & tool-based systems
-* 🗄️ Data and infrastructure
+I build API-driven systems using Python and FastAPI, work with databases and infrastructure, and develop applications that integrate LLMs, retrieval, automation, and AI workflows.
 
-I enjoy taking an idea from **architecture → implementation → working software**.
+My engineering focus sits across:
+
+**Backend Engineering** · **AI Applications** · **LLM Systems** · **Data & Infrastructure**
+
+I enjoy taking ideas from **architecture → implementation → working software**.
+
+---
+
+## `02` — ENGINEERING STACK
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Backend
+
+`Python`
+`FastAPI`
+`REST APIs`
+`SQLAlchemy`
+`PostgreSQL`
+`Redis`
+`Docker`
 
 </td>
 
-<td width="38%" valign="top">
+<td width="50%" valign="top">
 
-```text
-┌──────────────────────┐
-│   ENGINEERING CORE   │
-├──────────────────────┤
-│                      │
-│  Python              │
-│  FastAPI             │
-│  PostgreSQL          │
-│  Redis               │
-│  Docker              │
-│                      │
-│  +                    │
-│                      │
-│  LLMs                │
-│  RAG                 │
-│  AI Workflows        │
-│                      │
-└──────────────────────┘
-```
+### 🧠 AI / GenAI
+
+`LLMs`
+`Prompt Engineering`
+`RAG`
+`Embeddings`
+`Transformers`
+`Hugging Face`
+`Tool Calling`
+`AI Agents`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Data
+
+`PostgreSQL`
+`MongoDB`
+`SQL`
+`Redis`
+`Vector Search`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛠️ Development
+
+`Git`
+`GitHub`
+`Docker`
+`Postman`
+`React`
+`JavaScript`
+`Tailwind CSS`
 
 </td>
 </tr>
@@ -89,131 +117,26 @@ I enjoy taking an idea from **architecture → implementation → working softwa
 
 ---
 
-## `02` — ENGINEERING STACK
+## `03` — TECHNOLOGY
 
 <div align="center">
 
-### ⚡ BACKEND
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git,github,react,js,tailwind&theme=dark" />
 
 <br><br>
 
-`Python` · `FastAPI` · `REST APIs` · `SQLAlchemy` · `PostgreSQL` · `Redis` · `Docker`
-
-<br><br>
-
-### 🧠 AI / GENAI
-
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
-
-<br><br>
-
-`LLM Applications` · `RAG` · `Embeddings` · `Transformers` · `Hugging Face` · `Tool Calling` · `AI Agents`
-
-<br><br>
-
-### 🛠️ DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,react,js,tailwind&theme=dark" />
+<img src="https://img.shields.io/badge/LLMs-0F172A?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-172554?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Transformers-0F172A?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-312E81?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-0F172A?style=flat-square&logoColor=white" />
 
 </div>
 
 ---
 
-## `03` — SYSTEMS I'VE BUILT
-
-### ◈ AI-Powered HRMS
-
-> **Multi-tenant HR platform + AI-powered employee development system**
-
-A business-oriented HRMS platform with an AI-powered **Training Hub** designed around employee development, skill analysis, personalized learning, and organizational growth.
-
-```text
-Employee
-   │
-   ▼
-┌──────────────────┐
-│      HRMS        │
-│  Multi-Tenant    │
-│  Architecture    │
-└────────┬─────────┘
-         │
-         ▼
-┌──────────────────┐
-│   Training Hub   │
-└────────┬─────────┘
-         │
-         ▼
-┌──────────────────┐
-│   AI Services    │
-│                  │
-│ Skill Analysis   │
-│ Learning Paths   │
-│ Assessments      │
-│ Recommendations  │
-└──────────────────┘
-```
-
-**Core capabilities**
-
-`Skill Gap Analysis` · `Learning Paths` · `AI Assessments` · `Mock Interviews` · `Content Recommendations` · `AI Training Plans`
-
-**Stack**
-
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Redis` `Docker` `React` `LLMs`
-
----
-
-### ◈ RAG Knowledge Assistant
-
-> **Retrieval + context + generation**
-
-A document-based AI system designed to combine external knowledge retrieval with LLM generation for context-aware responses.
-
-```text
-Documents
-    ↓
-Processing
-    ↓
-Chunking
-    ↓
-Embeddings
-    ↓
-Vector Search
-    ↓
-Relevant Context
-    ↓
-LLM
-    ↓
-Response
-```
-
-**Architecture concepts**
-
-`Document Processing` · `Embeddings` · `Vector Search` · `RAG` · `LLMs`
-
----
-
-### ◈ Agentic AI Systems
-
-> **AI systems that interact with tools and execute workflows**
-
-Exploring and building AI workflows where models can interact with tools, maintain context, and execute multi-step operations.
-
-**Architecture**
-
-`LLM` → `Tool Calling` → `Execution` → `State` → `Response`
-
-**Technologies**
-
-`LangGraph` · `Tool Calling` · `Memory` · `Agent Workflows` · `MCP`
-
----
-
 ## `04` — AI ENGINEERING
-
-<div align="center">
 
 <table>
 <tr>
@@ -221,11 +144,11 @@ Exploring and building AI workflows where models can interact with tools, mainta
 
 ### 🧠
 
-**LLMs**
+**LLM APPLICATIONS**
 
-Foundation models
-API integration
+Model integration
 Prompt design
+AI-powered features
 
 </td>
 
@@ -233,11 +156,11 @@ Prompt design
 
 ### 🔎
 
-**RAG**
+**RAG SYSTEMS**
 
 Retrieval
 Embeddings
-Context
+Context grounding
 
 </td>
 
@@ -245,11 +168,11 @@ Context
 
 ### 🔧
 
-**TOOLS**
+**AI TOOLS**
 
 Tool Calling
-External APIs
-Execution
+API integration
+Workflow execution
 
 </td>
 
@@ -257,53 +180,29 @@ Execution
 
 ### 🤖
 
-**AGENTS**
+**AI WORKFLOWS**
 
-Workflows
+Agents
 State
-Multi-step tasks
+Multi-step execution
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
 ## `05` — DEVELOPMENT APPROACH
 
-```text
-                    ┌───────────────┐
-                    │     IDEA      │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │   ARCHITECT   │
-                    └───────┬───────┘
-                            ↓
-              ┌─────────────┴─────────────┐
-              ↓                           ↓
-       ┌──────────────┐            ┌──────────────┐
-       │   BACKEND    │            │  AI SYSTEM   │
-       │              │            │              │
-       │ Python       │            │ LLM          │
-       │ FastAPI      │            │ RAG          │
-       │ Database     │            │ Tools        │
-       └──────┬───────┘            └──────┬───────┘
-              │                           │
-              └─────────────┬─────────────┘
-                            ↓
-                    ┌───────────────┐
-                    │    INTEGRATE  │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │    SHIP 🚀    │
-                    └───────────────┘
-```
+<div align="center">
 
-I focus on understanding the **system behind the feature**, not just implementing isolated pieces of code.
+**Understand → Architect → Build → Integrate → Improve**
+
+<br>
+
+I focus on understanding the **system behind the feature**, building clean backend services, integrating AI capabilities where they add value, and turning ideas into maintainable software.
+
+</div>
 
 ---
 
@@ -341,41 +240,18 @@ I focus on understanding the **system behind the feature**, not just implementin
 
 ---
 
-## `08` — CURRENT BUILD SPACE
+## `08` — CONNECT
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║        PYTHON        BACKEND        AI       ║
-║           │             │           │        ║
-║           └─────────────┼───────────┘        ║
-║                         │                    ║
-║                         ▼                    ║
-║                  AI APPLICATIONS             ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
-**Building practical software where backend engineering meets modern AI systems.**
-
-</div>
-
----
-
-## `09` — CONNECT
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/marison-m">
-<img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/marison-m" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
- 
+  
 
-<a href="mailto:marison399@gmail.com">
-<img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:marison399@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
@@ -388,7 +264,7 @@ I focus on understanding the **system behind the feature**, not just implementin
 
 <div align="center">
 
-**Build → Integrate → Automate → Ship**
+**Build · Integrate · Automate · Ship**
 
 </div>
 
